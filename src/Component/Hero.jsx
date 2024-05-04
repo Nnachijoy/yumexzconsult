@@ -148,7 +148,7 @@ function HeroSection() {
 <Container className='p-4'>
       <div>
         <div className='fw-bolder text-center supported-by ' style={{  fontFamily: 'Lucida Handwriting', marginTop:'40px'}}>
-          Our Clientele
+          Our Clientele:
         </div>
 
         <Row className='mt-5'>
